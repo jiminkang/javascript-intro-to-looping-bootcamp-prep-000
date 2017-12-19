@@ -22,7 +22,9 @@ function maybeTrue() {
 }
 
 function doWhileLoop(arr){
-  
+  do{
+      arr.pop(1);
+  }
 }
 
 doWhileLoop
